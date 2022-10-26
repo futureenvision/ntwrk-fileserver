@@ -1,4 +1,11 @@
 {
     "deno.enable": true,
-    "deno.unstable": true
+    "deno.unstable": true,
+    "cSpell.enableFiletypes": [
+        "dockerfile"
+    ],
+    "cSpell.words": [
+        "deno",
+        "denoland"
+    ]
 }
